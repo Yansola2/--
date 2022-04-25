@@ -196,3 +196,187 @@
     padding: 10px;
 
 }
+
+
+
+.padding-section{
+    padding: 8% 0;
+}
+.process-text{
+    width: 45%;
+    margin: 0 auto;
+}
+.process-text h2{
+    padding-top: 20px;
+    margin-bottom: 30px;
+    font-size: 48px;
+}
+.process-text p{
+    color: #1E1B1B;
+    opacity: 0.6;
+}
+
+
+.process-taken{
+    width: 45%;
+    margin: 0 auto;
+}
+.get-quote h4{
+    font-size: 26px;
+    padding-bottom: 10px;
+}
+.get-quote p{
+    color: #1E1B1B;
+    opacity: 0.6;
+}
+.img-div{
+    width: 50px;
+    margin-right: 20px;
+}
+.process-img{
+    width: 50px;
+}
+.vertical-line{
+    border-left: 2px dotted #FF6433;
+    height: 50px;
+    margin-left: 5%;
+    margin-top: -30px;
+    margin-bottom: 20px;
+}
+/*  What we offer Section */
+.background-milk{
+    background-color: #F2F2F2;;
+}
+#our-offering h4{
+    text-align: center;
+    font-size: 20px;
+}
+#our-offering h2{
+    width: 60%;
+    text-align: center;
+    padding-top: 20px;
+    margin:  0 auto 40px auto;
+    font-size: 48px;
+}
+.flex-aligned{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+}
+.flex-box{
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    height: 180px;
+    width: 180px;
+    text-align: center;
+    background-color: #FFFFFF;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    color: black;
+}
+.flex-box p{
+    padding-top: 5px;
+}
+.flex-box:hover{
+    background-color: #FF6433;
+    color: white;
+    font-weight: bold;
+}
+.selected{
+    background-color: #FF6433;
+    color: white;
+    font-weight: bold;
+}
+.offer-link{
+    margin: auto;
+    width: 65%;
+    justify-content: flex-end;
+    padding-top: 10px;
+}
+.offer-link a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+.offer-link a:hover{
+    color: #FF6433;
+}
+
+#contact-us{
+    padding-bottom: 8%;
+}
+.contact-bg{
+    background-image: url(https://res.cloudinary.com/dyicbszzn/image/upload/v1650902255/Image_1_1_js4com.png);
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+.contact-bg2{
+    background-image: url(https://res.cloudinary.com/dyicbszzn/image/upload/v1650902256/ovGrEUgrkyE_qzbhnu.png);
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 40vh;
+}
+.contact-flexbox{
+    margin-left: 40%;
+    background-color: #FF6433;
+    height: 40vh;
+    width: 30vw;
+}
+.flexbox-text h4{
+    padding-top: 60px;
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    font-size: 24px;
+    color: white;
+}
+.button{
+    width: 65%;
+    margin: 30px auto 0 auto;
+}
+.black-btn{
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    background-color: black;
+    border-radius: 8px;
+}
+.flex-properties{
+    width: 80%;
+    margin:auto;
+    justify-content: space-between;
+}
+.finsweet-ratings{
+    margin-top: 5%;
+}
+.rating-amount{
+    font-size: 48px;
+    color: #661CE7;
+    font-weight: bold;
+}
+.rating-amount:hover{
+    color: #FF6433;
+}
+.finsweet-ratings p{
+    color: #1E1B1B;
+    opacity: 0.7;
+}
+
+.our-brands h2{
+    font-size: 44px;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+#brands{
+    padding-bottom: 40px;
+}
+.brand-div{
+    width: 75%;
+}
